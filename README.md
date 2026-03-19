@@ -54,3 +54,13 @@ END
 
 
 ### MANUAL CALCULATION
+![WhatsApp Image 2026-02-26 at 08 16 46](https://github.com/user-attachments/assets/d8db3ada-9057-43fe-a613-2bc0e3cda750)
+
+
+
+
+### RESULT
+
+Thus, the factorial of a number was calculated and executed successfully using 8051 Keil.
+
+---
